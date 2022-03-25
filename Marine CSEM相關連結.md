@@ -1,3 +1,4 @@
+Marine CSEM 相關論文/文章
 | 標題                                                                                                                      | 連結                    | O |
 | :----------------------------------------------------------------------------------------------------------------------- |:-----------------------:| -:|
 | Ten years of marine CSEM for hydrocarbon exploration                                                                     | https://reurl.cc/xOVlLN | O |
@@ -11,3 +12,28 @@
 | GPU parallelization of a three dimensional marine CSEM code                                                              | https://reurl.cc/veRkye | O |
 | Electromagnetic field analysis in the marine CSEM detection of homogeneous and inhomogeneous hydrocarbon 3D reservoirs   | https://reurl.cc/Go2ezv | O |
 | Bayesian inversion of marine CSEM data from the Scarborough gas field using a transdimensional 2-D parametrization       | https://reurl.cc/7ezk9y | O |
+| Detection and imaging sensitivity of the marine CSEM method                                                              | https://reurl.cc/LpGoe4 | O |
+| Introduction to CSEM | https://reurl.cc/bkpbrM        |     |
+| Monitoring geological storage of CO2: a new approach |  https://reurl.cc/xOqbV4       |     |
+| Vertical dipole CSEM: 3D acquisition and data impact from infrastructure | https://reurl.cc/MbEmE3        |     |
+| Vertical dipole CSEM technology advances and results from the Snøhvit field | https://reurl.cc/7exAa9        |     |
+| Vertical source, vertical receiver, electromagnetic technique for offshore hydrocarbon exploration | https://reurl.cc/VjVZAb        |     |
+| Comparison of the low-frequency variations of the vertical and horizontal components of the electric background field at the sea bottom | https://reurl.cc/OpWa99        |     |
+|  |         |     |
+
+
+
+Marine CSEM 相關網頁
+| 網頁/公司名稱  | 內容大綱  | 連結 |
+| :------------ |:---------------:| -----:|
+| Allton | Introduction to CSEM | https://reurl.cc/RjM7kD |
+| Allton | Equipment        | https://reurl.cc/8WmA5R   |
+| Allton | Operations        | https://reurl.cc/akybEl    |
+| Allton | Studies and publications        | https://reurl.cc/RjM7Ee    |
+|  |         |     |
+|  |         |     |
+|  |         |     |
+|  |         |     |
+|  |         |     |
+|  |         |     |
+|  |         |     |
